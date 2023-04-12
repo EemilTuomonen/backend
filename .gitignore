@@ -1,0 +1,7 @@
+/node_modules
+/uusi
+/vanhat
+
+.env
+
+.idea/
